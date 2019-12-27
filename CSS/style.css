@@ -1,0 +1,25 @@
+body{
+    background-color: blanchedalmond;
+}
+h1 {
+    color: aqua;
+    margin-bottom: auto;
+}
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    ;
+    color: salmon;
+}
+#AOW{
+    color: salmon;
+}
+#output {
+    color: salmon;
+}
+.c1 {
+    color:black;
+    font-size: large;
+    font-family: sans-serif;
+    margin-left: 250px;
+}
+

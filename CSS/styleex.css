@@ -1,0 +1,75 @@
+body {
+    background-image: url(/img/bg2.jpg)
+    
+
+
+}
+li{
+    float: left;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+li a{
+    color: aliceblue;
+    display: block;
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
+    background-color: #222729;
+    overflow: hidden;
+    position: fixed;
+    margin: 0;
+    top: 0;
+    width: 100%;
+}
+li a:hover{
+    background-color: #636e72;
+}
+.nameboand{
+    padding: 15px;
+    background-color: grey;
+    border: 1px solid black;
+}
+.profile{
+    width: 90%;
+}
+
+.profilepic{
+    width: 200px;
+    height: 250px;
+}
+.bal{
+    color: aliceblue;
+}
+
+.bold{
+    font-size: 17px;
+    font-weight: bold;
+    color: aliceblue;
+}
+
+.tcenter{
+    text-align: center;
+    color: aliceblue;
+}
+
+.p2{
+    padding-left: 20px;
+    color: aliceblue;
+}
+
+.bal2{
+    color: black;
+}
+
+.pic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    height: 200px;
+}
