@@ -1,0 +1,65 @@
+body{
+    text-align: center;
+}
+  
+  h1 {
+    font-size: 5rem;
+    color: rgb(255, 0, 0);
+    font-family: 'IM Fell Great Primer SC', serif;
+    text-shadow: 5px 0 rgb(2, 1, 14);
+  }
+  
+  h2{
+    font-size: 2.5rem;
+    color: rgb(17, 0, 255);
+    font-family: 'IM Fell Great Primer SC', serif;
+    text-shadow: 2.5px 0 rgb(158, 200, 255);
+    
+  }
+  .manual{
+    font-size: 1.5rem;
+    color: rgb(255, 255, 255);
+    font-family: "Dosis", cursive;
+    
+  }
+  
+  .guessField{
+    font-size: 1.5rem;
+    color: rgb(0, 0, 0);
+    font-family: "Dosis", cursive;
+  }
+
+  .guessSubmit{
+    font-size: 1.5rem;
+    color: rgb(255, 255, 255);
+    font-family: "Dosis", cursive;
+    background-color: rgb(255, 0, 179);
+  }
+
+  .result{
+    font-size: 2rem;
+    color: rgb(8, 1, 1);
+    font-family: 'IM Fell Great Primer SC', serif;
+    background-color: rgb(94, 255, 0);
+
+  }
+
+  .Previousguessed{
+      text-align: center;
+    font-size: 1.5rem;
+   color: white;
+    font-family: "Dosis", cursive;
+  }
+  .turn{
+      text-align: center;
+    font-size: 1rem;
+    color: rgb(8, 3, 3);
+    font-family: "Dosis", cursive;
+    background-color: rgb(238, 255, 0);
+  }
+  button{
+    font-size: 2rem;
+    color: rgb(255, 255, 255);
+    font-family: "Dosis", cursive;
+    background-color: rgb(255, 0, 179);
+  }
